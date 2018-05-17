@@ -52,4 +52,4 @@ This exercise reviews:
 2. create a new site from your github repository
 3. deploy!
 4. configure the site with a custom URL
-5. (optional) BUY the domain using (Google Domains)[domains.google.com] and configure netlify to use your custom domain.
+5. (optional) BUY the domain using [Google Domains](domains.google.com) and configure netlify to use your custom domain.
